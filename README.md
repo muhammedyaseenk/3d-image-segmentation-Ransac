@@ -269,26 +269,6 @@ Suggested tests:
 
 ## License
 
-Choose a license for the project. A permissive default is MIT — create a `LICENSE` file if you want to publish under MIT.
-
-```
 MIT License
 Copyright (c) 2025
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-[...fill in full MIT text if desired...]
-```
-
----
-
-If you'd like, I can also:
-- create `requirements.txt` and `quick_benchmark.py`,
-- add a safe return `(None, [], [])` when no model is found,
-- add `pytest` unit tests for the main happy path and an edge case.
-
-Tell me which of those you'd like next and I'll implement it.
