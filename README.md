@@ -28,6 +28,7 @@ Both scripts accept 3D point clouds and return a fitted plane (coefficients), in
 ---
 
 ## Overview
+<img width="1056" height="992" alt="image" src="https://github.com/user-attachments/assets/e68ec5e2-e44f-4946-845a-d3cb1101b165" />
 
 RANSAC Segmentation provides two complementary implementations of RANSAC plane fitting using PyTorch:
 
